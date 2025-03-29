@@ -2,6 +2,11 @@
 
 A React application for user management, built with React, TypeScript, and Tailwind CSS. This project demonstrates authentication, user listing, searching, and CRUD operations using the ReqRes API.
 
+## 🚀 Live Demo
+
+Check out the live application here:  
+🔗 [https://employwise-usermanagement.vercel.app](https://employwise-usermanagement.vercel.app)
+
 ## Features
 
 - 🔐 User Authentication
